@@ -1,5 +1,6 @@
 streamlit
 pandas
-anthropic
+groq
 plotly
 openpyxl
+python-dotenv
